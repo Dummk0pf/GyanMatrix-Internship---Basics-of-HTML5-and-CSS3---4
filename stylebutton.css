@@ -1,0 +1,26 @@
+body{
+    background-color: lightslategray;
+}
+
+.box{                              
+    text-align: center;
+    right:2rem;
+    position:fixed;
+    width:8%;
+}
+
+img{
+    width:40px;
+}
+
+.navbu{  
+    display: none;
+}
+
+.navbutton{
+    display: block;
+    border:0.1rem solid white;
+    padding:1rem;
+    text-decoration: none;
+    color:white;
+}
